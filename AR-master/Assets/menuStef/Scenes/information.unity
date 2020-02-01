@@ -460,7 +460,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 275589703}
-        m_MethodName: Exit3
+        m_MethodName: Exit4
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
